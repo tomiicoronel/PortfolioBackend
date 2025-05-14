@@ -11,7 +11,7 @@ Este es mi **Portfolio Backend**: un espacio donde recojo **todo mi progreso**, 
 ---
 
 ## 🗂️ Estructura del Portfolio
-
+```
 portfolio-backend/
 ├── Parte1_Fundamentos_Java/
 │ ├── Fase1_Fundamentos/ (Sintaxis, variables, condicionales, bucles, arrays, strings y métodos)
@@ -30,7 +30,7 @@ portfolio-backend/
 │ └── Observabilidad/ (Logs, métricas y tracing)
 │
 └── README.md (Este archivo)
-
+```
 ---
 
 ## 🚀 Lo que aporto
