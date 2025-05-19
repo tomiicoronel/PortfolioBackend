@@ -68,7 +68,7 @@ portfolio-backend/
 
 ## ✨ Objetivo Final
 
-Convertirme en un desarrollador Backend Java capaz de construir aplicaciones robustas y escalables siguiendo buenas prácticas, aplicando principios de diseño moderno y aprovechando tecnologías de punta.
+Convertirme en un desarrollador Backend Java capaz de construir aplicaciones robustas y escalables siguiendo buenas prácticas, aplicando principios de diseño moderno y aprovechando tecnologías de punta. En cada parte de este repositorio se encuentran los ejercicios/practicas que hice para lograr el objetivo.
 
 
 ---
