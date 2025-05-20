@@ -12,5 +12,5 @@ polimorfismo, sobrecarga y sobreescritura de metodos y clases abstractas.
 - [7] Sobrecarga y sobreescritura de métodos✅
 - [8] Clases abstractas✅
 - [9] Interfaces✅
-- [10] Colecciones (`ArrayList`, `HashMap`, `HashSet`)
-- [11] Métodos `static`, `final`, constantes
+- [10] Colecciones (`ArrayList`, `HashMap`, `HashSet`)✅
+- [11] Métodos `static`, `final`, constantes✅

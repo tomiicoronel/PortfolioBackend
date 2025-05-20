@@ -54,18 +54,6 @@ portfolio-backend/
 
 ---
 
-## 📈 Puntos destacados
-
-- **Catálogo de Películas (Fase3)**: Menú interactivo, CRUD en consola, cálculo de métricas.  
-- **Registro de Alumnos (Fase3)**: Uso de `HashSet`, validación de duplicados y conteo por curso.  
-- **API To-Do (Fase4-Fase5)**: Endpoints CRUD con Spring Boot, DTOs, manejo de errores, buenas prácticas REST.  
-- **Usuarios & Reservas (Fase6)**: JPA Entities, relaciones `@OneToMany`, consultas personalizadas, transacciones.  
-- **Seguridad JWT (Fase7)**: Registro e inicio de sesión seguro, roles, filtros personalizados y manejo de excepciones.  
-- **Microservicios (Fase8)**: Descubrimiento con Eureka, configuración centralizada, circuit breaker, comunicación entre servicios (REST).  
-- **Dockerización y Despliegue (Parte3)**: Contenerización de aplicaciones, pipelines CI/CD con GitHub Actions y logs avanzados.
-
----
-
 ## ✨ Objetivo Final
 
 Convertirme en un desarrollador Backend Java capaz de construir aplicaciones robustas y escalables siguiendo buenas prácticas, aplicando principios de diseño moderno y aprovechando tecnologías de punta. En cada parte de este repositorio se encuentran los ejercicios/practicas que hice para lograr el objetivo.
@@ -128,9 +116,9 @@ Convertirme en un desarrollador Backend Java capaz de construir aplicaciones rob
 
 - [x] ¿Qué es Spring Boot? + diferencia con Spring
 - [x] Estructura de un proyecto con Maven/Gradle (gestión de dependencias)
-- [ ] Configuración de propiedades (`application.properties` / `application.yml`)
-- [ ] Perfiles de entorno (`@Profile`, archivos de configuración)
-- [ ] ¿Qué es un Bean? Ciclo de vida, scopes, creación y destrucción
+- [x] Configuración de propiedades (`application.properties` / `application.yml`)
+- [x] Perfiles de entorno (`@Profile`, archivos de configuración)
+- [x] ¿Qué es un Bean? Ciclo de vida, scopes, creación y destrucción
 - [ ] Servicios (`@Service`) + Inyección de dependencias (`@Autowired`, por constructor)
 - [ ] Inversión de Control (IoC) y Dependency Injection (DI)
 - [ ] Logs básicos (`SLF4J`, `Logback`)
