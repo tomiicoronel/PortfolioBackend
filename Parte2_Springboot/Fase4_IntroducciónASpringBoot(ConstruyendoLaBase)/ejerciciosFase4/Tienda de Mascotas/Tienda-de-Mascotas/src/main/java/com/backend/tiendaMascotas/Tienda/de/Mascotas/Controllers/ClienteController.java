@@ -13,14 +13,18 @@ import java.util.List;
 @RestController
 @RequestMapping("/clientes")
 public class ClienteController {
+    // Inyección del servicio que gestiona la lógica de clientes
     @Autowired
     private ClienteService clienteService;
 
+    // Endpoint para obtener la lista de todos los clientes registrados
     @GetMapping
     public List<ClienteDTO> listarClientes() {
         return clienteService.obtenerClientes();
     }
 
+    // Endpoint para registrar un nuevo cliente
+    // Valida el cuerpo de la petición antes de guardar
     @PostMapping
     public ResponseEntity<String> agregarCliente(@Valid @RequestBody ClienteDTO clienteDTO) {
         clienteService.guardarCliente(clienteDTO);
